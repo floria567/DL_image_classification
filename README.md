@@ -2,11 +2,11 @@
 Deep learning for image classification  
 Landmarks in Jersey City  
 
-The project is to identify 4 landmarks in the city
--- Canal
--- Colgate
--- Firefighter
--- Kaytn
+The project is to identify 4 landmarks in the city  
+-- Canal  
+-- Colgate  
+-- Firefighter  
+-- Kaytn  
 
 Instructions:  
 
